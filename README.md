@@ -61,6 +61,17 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 **MODEL CALCULATION:**
 
+<img width="1595" height="1599" alt="image" src="https://github.com/user-attachments/assets/a5636bfc-9094-4107-b3d9-5485d0ee4870" />
+
+<img width="1600" height="1240" alt="image" src="https://github.com/user-attachments/assets/c6cc64f5-ad27-4038-9b20-dc660e45d664" />
+
+<img width="1312" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d776e2d-f929-42e5-9cbd-0cc33c0b9c3e" />
+
+<img width="976" height="1216" alt="image" src="https://github.com/user-attachments/assets/e2d94ef9-0ccf-40f7-ac68-855b80b47eac" />
+
+<img width="1487" height="1080" alt="image" src="https://github.com/user-attachments/assets/91a963c5-c4bb-4991-bbd7-ca2f3a77cc82" />
+
+
 **PROCEDURE:**
 
 1.	Make connection as per the circuit diagram.
